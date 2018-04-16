@@ -1,0 +1,6 @@
+C:\Users\Papun Senapati\source\repos\JenkinsService\JenkinsService\bin\JenkinsService.dll.config
+C:\Users\Papun Senapati\source\repos\JenkinsService\JenkinsService\bin\JenkinsService.dll
+C:\Users\Papun Senapati\source\repos\JenkinsService\JenkinsService\bin\JenkinsService.pdb
+C:\Users\Papun Senapati\source\repos\JenkinsService\JenkinsService\obj\Release\JenkinsService.csproj.CoreCompileInputs.cache
+C:\Users\Papun Senapati\source\repos\JenkinsService\JenkinsService\obj\Release\JenkinsService.dll
+C:\Users\Papun Senapati\source\repos\JenkinsService\JenkinsService\obj\Release\JenkinsService.pdb

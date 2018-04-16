@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="JenkinsService.JenkinsCrossService" CodeBehind="JenkinsCrossService.svc.cs" %>

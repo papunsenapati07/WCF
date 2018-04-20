@@ -29,7 +29,7 @@ namespace JenkinsService
             string QueryString = GetQueryString(values);
             Uri result = default(Uri);
             if (Uri.TryCreate(
-            string.Concat("52.160.97.191:8080", "/job/", "projectname", "/buildWithParameters/", QueryString),
+            string.Concat("serverurl", "/job/", "projectname", "/buildWithParameters/", QueryString),
              UriKind.Absolute, out result))
             {
                 resultUrl = result.AbsoluteUri;
